@@ -1,0 +1,12 @@
+.Card {
+  /* display: flex; */
+  border: 0.5px solid black;
+  margin: 10px;
+  width: 250px;
+  border-radius: 10px;
+  background-color: rgb(228, 220, 187);
+}
+img {
+  height: 100px;
+  width: 100px;
+}
