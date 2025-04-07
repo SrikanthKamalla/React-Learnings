@@ -38,6 +38,12 @@ npm install --save-dev babel-loader @babel/core @babel/preset-env @babel/preset-
 2. Diffing Process
 3. Reconciliation
 
+
+## React Component Life Cycle
+
+![App Screenshot](https://github.com/SrikanthKamalla/React-Learnings/blob/master/Component-Life-Cycle.png)
+
+
 # Folder-04. My-app
 1. Call Components vs Functional Components
 
