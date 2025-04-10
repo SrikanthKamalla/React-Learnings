@@ -4,6 +4,7 @@
 
 # Folder-01. DOM Elements vs React Elements
 * DOM Element (Browser DOM)
+  
   Heavyweight: Directly tied to browser rendering.
 
   Imperative: You manually update them (e.g., document.getElementById('root').innerHTML = '...').
@@ -11,6 +12,7 @@
   Slow updates: Changing DOM triggers reflows/repaints.
 
 * React Element
+  
   They are virtual representations of DOM elements.
 
   React uses these to build the Virtual DOM.
